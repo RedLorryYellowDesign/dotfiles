@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jordan.lee.harris@icloud.com
+	name = Jordan Harris
